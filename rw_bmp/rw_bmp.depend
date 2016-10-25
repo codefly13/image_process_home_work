@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1476963274 source:d:\myworkstation\cpluse\rw_bmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1476955545 source:d:\myworkstation\cpluse\rw_bmp\test.c
+	<stdio.h>
+	<stdlib.h>
+
+1477313840 source:h:\vcwokspace\rw_bmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"rw_bmp.h"
+
+1477354085 source:h:\vcwokspace\rw_bmp\gray.c
+	"gray.h"
+
+1477354018 h:\vcwokspace\rw_bmp\rw_bmp.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1477351801 source:h:\vcwokspace\rw_bmp\rw_bmp.c
+	"rw_bmp.h"
+
+1477354076 h:\vcwokspace\rw_bmp\gray.h
+	"rw_bmp.h"
+
